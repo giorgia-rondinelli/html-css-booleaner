@@ -1,11 +1,16 @@
+/* intestazione */
 header{
   background-color: rgb(78,160,255);
+  background-image: url();
   height: 100px;
 }
 #logo{
   height: 100px;
   width: 200px;
 }
+/* intestazione  */
+
+/* titolo  */
 h1{
   font-size: 50px;
   font-weight: 800;
@@ -20,7 +25,27 @@ h1{
 }
 .data{
   margin-bottom: 20px;
+/* titolo  */
+
+/* foto  */
 }
 .descrizione-foto{
   font-size:0.7em;
 }
+/* foto  */
+
+/* testo principale */
+.testo-importante{
+  background-color: yellow;
+}
+/* testo principale */
+
+/* tabella */
+th{
+  background-color: rgb(78,160,255);
+  color: white;
+}
+.riga-azzurra{
+  background-color: rgb(177,229,242);
+}
+/* tabella */

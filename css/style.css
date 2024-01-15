@@ -1,0 +1,26 @@
+header{
+  background-color: rgb(78,160,255);
+  height: 100px;
+}
+#logo{
+  height: 100px;
+  width: 200px;
+}
+h1{
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+#autore{
+  color: rgb(78,160,255);
+}
+.data,#informazioni{
+  color:gray;
+}
+.data{
+  margin-bottom: 20px;
+}
+.descrizione-foto{
+  font-size:0.7em;
+}
